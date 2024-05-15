@@ -1,0 +1,62 @@
+DanNewton Gatobu Mwenda    
+Software  Engineer   
+Contact   Summary   
+0710948426   
+rdan99848@gmail.com   
+https://github.com/DanGatobu   Student at Murang'a University of 
+Technology (Awaiting gra duation ) who loves 
+learning and working with data which has led me to 
+explore Python language to get insight into entry 
+level in data cleaning, analysis and visualization and 
+comfortable using Python Data libraries (NumPy, 
+pandas, SciPy, matplotlib) and well conve rsant with 
+python web frameworks (Django, Flask). I ’m eager 
+to apply my skills to real world business problems.  
+Education   Experience  
+BSC SOFTWARE ENGINERING  
+Muranga University of technology  
+09/2020 - On Going  
+  
+Skills  
+Programing  
+Python, NumPy ,Pandas, Scikit  
+App  Development  
+Django, Flask ,PyQt6  
+Databases  
+PostgreSQL , Sqlachemy,  IBM Cloud,  
+Django ORM ,PyMongo  
+Visualization  
+Matplotlib,  Seaborn,  plotly  
+Code Management/Collaboration  
+Git 
+Github -Link 
+Hobbies  
+ 
+Football  
+Coding  
+Reading novels  
+Listening to music   INDUSTRIAL ATTACHMENT  
+APPKINGS Solutions | 05/2023 - 07/2023  
+Learnt How to use and install Microsoft dynamics 
+365 Business central.  
+Cleaned Excel data for entry  
+Entered Data through Dynamics BC  
+Clerk  
+IEBC | 08/2022 - 08/2022  
+Worked with others which bettered my 
+collaboration skills  
+Certifications  
+Credly lin k-Link 
+IBM Data Science Professional  
+  
+IBM Data Analysis with python  
+  
+IBM Data Visualization with python  
+  
+Strength  
+Loves Learning  
+  
+Problem solving  
+  
+Collaborating and team work   
+ 

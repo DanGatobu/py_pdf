@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/menu-bar.png</file>
+    <file>icons/icons8-access-30.png</file>
+    <file>icons/icons8-encrypt-50.png</file>
+    <file>icons/icons8-extract-32.png</file>
+    <file>icons/icons8-merge-50.png</file>
+    <file>icons/icons8-split-30.png</file>
+    <file>icons/icons8-compress-50.png</file>
+    <file>icons/icons8-pdf-50.png</file>
+    <file>icons/icons8-upload-50.png</file>
+    <file>icons/icons8-cancel-50.png</file>
+  </qresource>
+</RCC>
